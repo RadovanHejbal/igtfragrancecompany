@@ -34,15 +34,61 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/RadovanHejbal/igtfragrancecompany.git
-2. Open two terminals
-    2.1. terminal 1 - open backend: cd igtfragrancecompany/mockapi
-    2.2  terminal 1 - install dependencies: npm install
-    2.3  terminal 1 - start server: node index.js
-    2.4  terminal 2 - open frontend: cd igtfragrancecompany/app
-    2.5  terminal 2 - install dependencies: npm install
-    2.6  terminal 2 - start react app: npm run dev
-3. Open the web browser and visit: localhost:5173
+1. **Clone the Repository:**
+
+    ```bash
+    git clone https://github.com/RadovanHejbal/igtfragrancecompany.git
+    ```
+
+2. **Backend Setup:**
+
+    Open your terminal and navigate to the backend directory:
+
+    ```bash
+    cd igtfragrancecompany/mockapi
+    ```
+
+    Install backend dependencies:
+
+    ```bash
+    npm install
+    ```
+
+    Start the server:
+
+    ```bash
+    node index.js
+    ```
+
+3. **Frontend Setup:**
+
+    Open a new terminal window and navigate to the frontend directory:
+
+    ```bash
+    cd igtfragrancecompany/app
+    ```
+
+    Install frontend dependencies:
+
+    ```bash
+    npm install
+    ```
+
+    Start the React app:
+
+    ```bash
+    npm run dev
+    ```
+
+4. **Access the Application:**
+
+    Open your web browser and visit:
+
+    ```
+    localhost:5173
+    ```
+
+Now, you should have the Fragrance and Flavor Catalog running locally on your machine
 
 ## Server
 The server is located in the mockapi folder, serves as a mock API for the app. It provides data for the app to display
