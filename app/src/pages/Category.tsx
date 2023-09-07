@@ -17,6 +17,8 @@ const Category = ({product}: {product: string}) => {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
 
+  console.log("RENDER");
+
   // function for loading products
   const loadFunction = async (reset: boolean) => {
     setLoading(true);
