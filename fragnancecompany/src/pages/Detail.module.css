@@ -1,0 +1,64 @@
+.detailsContainer {
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 32px;
+}
+
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.image {
+ width: 300px;
+}
+
+.title {
+    font-size: 2.5rem;
+}
+
+.description {
+    font-size: 1.25rem;
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.saveButton {
+    width:max-content;
+    border: none;
+    background-color: rgb(138, 0, 0);
+    padding: 12px;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.2s ease;
+}
+
+.saveButton:hover {
+    background-color: rgb(100, 0, 0);
+}
+
+.reviewsContainer {
+    max-width: 1400px;
+    margin: auto;
+    padding: 32px;
+}
+
+.reviewsWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+@media only screen and (max-width: 650px) {
+    .detailsContainer {
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,34 @@
+.header {
+    padding: 32px;
+    background: linear-gradient(to right, #FF8E63, #A8DB3F);
+    background-color: whitesmoke;
+}
+
+.headerContainer {
+    display: flex;
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 300px;
+    align-items: center;
+}
+
+.title {
+    font-size: 72px;
+}
+
+.type {
+    font-size: 24px;
+    color: rgb(43, 43, 43);
+}
+
+@media only screen and (max-width: 500px) {
+    .headerContainer {
+        height: 250px;
+    }
+    .title {
+        font-size: 48px;
+    }
+    .type {
+        font-size: 20px;
+    }
+}

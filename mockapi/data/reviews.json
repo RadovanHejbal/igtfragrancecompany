@@ -1,0 +1,464 @@
+[
+    {
+      "id": 1,
+      "productId": 1,
+      "text": "This fragrance is amazing! I love the floral notes.",
+      "stars": 5,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "text": "Not my favorite fragrance, but it's decent.",
+      "stars": 3,
+      "name": "Bob"
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "text": "The flavor is so fruity and delicious!",
+      "stars": 4,
+      "name": "Charlie"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "text": "Meh, it's just okay. Expected more.",
+      "stars": 2,
+      "name": "David"
+    },
+    {
+      "id": 5,
+      "productId": 3,
+      "text": "This fragrance is heavenly. I can't get enough of it!",
+      "stars": 5,
+      "name": "Eva"
+    },
+    {
+      "id": 6,
+      "productId": 3,
+      "text": "I don't like the scent at all. Too overpowering.",
+      "stars": 1,
+      "name": "Frank"
+    },
+    {
+      "id": 7,
+      "productId": 4,
+      "text": "The flavor is fresh and natural. I recommend it!",
+      "stars": 4,
+      "name": "Grace"
+    },
+    {
+      "id": 8,
+      "productId": 4,
+      "text": "I expected more flavor. It's a bit bland.",
+      "stars": 2,
+      "name": "Hank"
+    },
+    {
+      "id": 9,
+      "productId": 5,
+      "text": "Lovely fragrance with a hint of musk. Perfect!",
+      "stars": 5,
+      "name": "Ivy"
+    },
+    {
+      "id": 10,
+      "productId": 5,
+      "text": "Not a fan of musk fragrances. Too strong for me.",
+      "stars": 2,
+      "name": "Jack"
+    },
+    {
+      "id": 11,
+      "productId": 6,
+      "text": "The vanilla flavor is so sweet and comforting!",
+      "stars": 4,
+      "name": "Katie"
+    },
+    {
+      "id": 12,
+      "productId": 6,
+      "text": "I expected more richness in the flavor.",
+      "stars": 3,
+      "name": "Liam"
+    },
+    {
+        "id": 13,
+        "productId": 7,
+        "text": "The strawberry flavor is so delightful!",
+        "stars": 5,
+        "name": "Megan"
+      },
+      {
+        "id": 14,
+        "productId": 7,
+        "text": "I'm not a fan of fruity flavors, but this one's decent.",
+        "stars": 3,
+        "name": "Nathan"
+      },
+      {
+        "id": 15,
+        "productId": 8,
+        "text": "This minty flavor is so refreshing!",
+        "stars": 4,
+        "name": "Olivia"
+      },
+      {
+        "id": 16,
+        "productId": 8,
+        "text": "I expected a stronger minty kick.",
+        "stars": 3,
+        "name": "Peter"
+      },
+      {
+        "id": 17,
+        "productId": 9,
+        "text": "Classic vanilla never disappoints!",
+        "stars": 5,
+        "name": "Quinn"
+      },
+      {
+        "id": 18,
+        "productId": 9,
+        "text": "A bit too plain for my taste.",
+        "stars": 2,
+        "name": "Rachel"
+      },
+      {
+        "id": 19,
+        "productId": 10,
+        "text": "The cherry blossom fragrance is delightful!",
+        "stars": 4,
+        "name": "Sam"
+      },
+      {
+        "id": 20,
+        "productId": 10,
+        "text": "I'm not a fan of floral fragrances, but this one's not bad.",
+        "stars": 3,
+        "name": "Tom"
+      },
+      {
+        "id": 21,
+        "productId": 11,
+        "text": "The citrus flavor is so refreshing and tangy!",
+        "stars": 4,
+        "name": "Uma"
+      },
+      {
+        "id": 22,
+        "productId": 11,
+        "text": "I'm not a fan of citrusy flavors, but this one's decent.",
+        "stars": 3,
+        "name": "Victor"
+      },
+      {
+        "id": 23,
+        "productId": 12,
+        "text": "The lavender fragrance is so soothing!",
+        "stars": 4,
+        "name": "Wendy"
+      },
+      {
+        "id": 24,
+        "productId": 12,
+        "text": "Lavender is not my favorite scent, but this one's tolerable.",
+        "stars": 2,
+        "name": "Xavier"
+      },
+      {
+        "id": 25,
+        "productId": 13,
+        "text": "The coconut flavor is deliciously tropical!",
+        "stars": 5,
+        "name": "Yara"
+      },
+      {
+        "id": 26,
+        "productId": 13,
+        "text": "I'm not a fan of coconut, but this flavor is better than others I've tried.",
+        "stars": 3,
+        "name": "Zach"
+      },
+      {
+        "id": 27,
+        "productId": 14,
+        "text": "This cinnamon flavor is warming and delightful!",
+        "stars": 4,
+        "name": "Amy"
+      },
+      {
+        "id": 28,
+        "productId": 14,
+        "text": "I'm not a fan of cinnamon, but this one's not bad.",
+        "stars": 3,
+        "name": "Ben"
+      },
+      {
+        "id": 29,
+        "productId": 15,
+        "text": "The rose fragrance is elegant and beautiful!",
+        "stars": 5,
+        "name": "Chloe"
+      },
+      {
+        "id": 30,
+        "productId": 15,
+        "text": "I'm not a fan of floral fragrances, but this one's tolerable.",
+        "stars": 3,
+        "name": "Daniel"
+      },
+      {
+        "id": 31,
+        "productId": 16,
+        "text": "The mango flavor is fruity and delicious!",
+        "stars": 4,
+        "name": "Emily"
+      },
+      {
+        "id": 32,
+        "productId": 16,
+        "text": "I expected more mango flavor, but it's okay.",
+        "stars": 3,
+        "name": "Fiona"
+      },
+      {
+        "id": 33,
+        "productId": 17,
+        "text": "The ocean breeze fragrance is fresh and invigorating!",
+        "stars": 5,
+        "name": "George"
+      },
+      {
+        "id": 34,
+        "productId": 17,
+        "text": "Not a fan of ocean scents, but this one's refreshing.",
+        "stars": 3,
+        "name": "Holly"
+      },
+      {
+        "id": 35,
+        "productId": 18,
+        "text": "The chocolate flavor is decadent and rich!",
+        "stars": 4,
+        "name": "Ian"
+      },
+      {
+        "id": 36,
+        "productId": 18,
+        "text": "I'm not a fan of chocolate, but this flavor is better than expected.",
+        "stars": 3,
+        "name": "Jessica"
+      },
+      {
+        "id": 37,
+        "productId": 19,
+        "text": "The vanilla flavor is classic and comforting!",
+        "stars": 5,
+        "name": "Katherine"
+      },
+      {
+        "id": 38,
+        "productId": 19,
+        "text": "I'm not a fan of vanilla, but this flavor is okay.",
+        "stars": 3,
+        "name": "Landon"
+      },
+      {
+        "id": 39,
+        "productId": 20,
+        "text": "The lavender fragrance is calming and delightful!",
+        "stars": 4,
+        "name": "Melissa"
+      },
+      {
+        "id": 40,
+        "productId": 20,
+        "text": "Lavender is not my favorite scent, but this one's tolerable.",
+        "stars": 3,
+        "name": "Natalie"
+      },
+      {
+        "id": 41,
+        "productId": 21,
+        "text": "The apple flavor is crisp and refreshing!",
+        "stars": 4,
+        "name": "Oscar"
+      },
+      {
+        "id": 42,
+        "productId": 21,
+        "text": "I expected more apple flavor, but it's decent.",
+        "stars": 3,
+        "name": "Penny"
+      },
+      {
+        "id": 43,
+        "productId": 22,
+        "text": "The lavender fragrance is calming and soothing!",
+        "stars": 5,
+        "name": "Quincy"
+      },
+      {
+        "id": 44,
+        "productId": 22,
+        "text": "Lavender is not my favorite scent, but this one's tolerable.",
+        "stars": 3,
+        "name": "Robert"
+      },
+      {
+        "id": 45,
+        "productId": 23,
+        "text": "The strawberry flavor is sweet and delicious!",
+        "stars": 4,
+        "name": "Samantha"
+      },
+      {
+        "id": 46,
+        "productId": 23,
+        "text": "I'm not a fan of fruity flavors, but this one's decent.",
+        "stars": 3,
+        "name": "Timothy"
+      },
+      {
+        "id": 47,
+        "productId": 24,
+        "text": "The citrus fragrance is refreshing and invigorating!",
+        "stars": 4,
+        "name": "Ursula"
+      },
+      {
+        "id": 48,
+        "productId": 24,
+        "text": "Citrus is not my favorite scent, but this one's tolerable.",
+        "stars": 3,
+        "name": "Vincent"
+      },
+      {
+        "id": 49,
+        "productId": 25,
+        "text": "The chocolate flavor is rich and indulgent!",
+        "stars": 5,
+        "name": "Wendy"
+      },
+      {
+        "id": 50,
+        "productId": 25,
+        "text": "I'm not a fan of chocolate, but this flavor is surprisingly good.",
+        "stars": 4,
+        "name": "Xander"
+      },
+      {
+        "id": 51,
+        "productId": 26,
+        "text": "The ocean breeze fragrance is fresh and invigorating!",
+        "stars": 5,
+        "name": "Yasmine"
+      },
+      {
+        "id": 52,
+        "productId": 26,
+        "text": "Not a fan of ocean scents, but this one's tolerable.",
+        "stars": 3,
+        "name": "Zara"
+      },
+      {
+        "id": 53,
+        "productId": 27,
+        "text": "The vanilla flavor is classic and comforting!",
+        "stars": 5,
+        "name": "Zoe"
+      },
+      {
+        "id": 54,
+        "productId": 27,
+        "text": "I'm not a fan of vanilla, but this flavor is okay.",
+        "stars": 3,
+        "name": "Aaron"
+      },
+      {
+        "id": 55,
+        "productId": 28,
+        "text": "The lavender fragrance is calming and delightful!",
+        "stars": 4,
+        "name": "Bella"
+      },
+      {
+        "id": 56,
+        "productId": 28,
+        "text": "Lavender is not my favorite scent, but this one's tolerable.",
+        "stars": 3,
+        "name": "Caleb"
+      },
+      {
+        "id": 57,
+        "productId": 29,
+        "text": "The apple flavor is crisp and refreshing!",
+        "stars": 4,
+        "name": "Daisy"
+      },
+      {
+        "id": 58,
+        "productId": 29,
+        "text": "I expected more apple flavor, but it's decent.",
+        "stars": 3,
+        "name": "Ethan"
+      },
+      {
+        "id": 59,
+        "productId": 30,
+        "text": "The mango flavor is fruity and delicious!",
+        "stars": 4,
+        "name": "Felicity"
+      },
+      {
+        "id": 60,
+        "productId": 30,
+        "text": "I'm not a fan of mango, but this flavor is tolerable.",
+        "stars": 3,
+        "name": "George"
+      },
+      {
+        "id": 61,
+        "productId": 31,
+        "text": "The strawberry flavor is sweet and delicious!",
+        "stars": 4,
+        "name": "Hannah"
+      },
+      {
+        "id": 62,
+        "productId": 31,
+        "text": "I'm not a fan of fruity flavors, but this one's decent.",
+        "stars": 3,
+        "name": "Isaac"
+      },
+      {
+        "id": 63,
+        "productId": 32,
+        "text": "The citrus fragrance is refreshing and invigorating!",
+        "stars": 4,
+        "name": "Jasmine"
+      },
+      {
+        "id": 64,
+        "productId": 32,
+        "text": "Citrus is not my favorite scent, but this one's tolerable.",
+        "stars": 3,
+        "name": "Kevin"
+      },
+      {
+        "id": 65,
+        "productId": 33,
+        "text": "The chocolate flavor is rich and indulgent!",
+        "stars": 5,
+        "name": "Lily"
+      },
+      {
+        "id": 66,
+        "productId": 33,
+        "text": "I'm not a fan of chocolate, but this flavor is surprisingly good.",
+        "stars": 4,
+        "name": "Matthew"
+      }
+  ]

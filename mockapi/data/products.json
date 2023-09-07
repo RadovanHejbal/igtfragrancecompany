@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "product": "fragrance",
+    "title": "Rose Perfume",
+    "description": "A delightful fragrance with the essence of fresh roses.",
+    "price": 29.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Rose+Perfume"
+  },
+  {
+    "id": 2,
+    "product": "fragrance",
+    "title": "Lavender Mist",
+    "description": "Relaxing lavender scent that calms the senses.",
+    "price": 24.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Lavender+Mist"
+  },
+  {
+    "id": 3,
+    "product": "fragrance",
+    "title": "Citrus Burst",
+    "description": "An invigorating blend of citrus fruits for a refreshing aroma.",
+    "price": 22.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Citrus+Burst"
+  },
+  {
+    "id": 4,
+    "product": "fragrance",
+    "title": "Tropical Breeze",
+    "description": "Escape to the tropics with this exotic fragrance.",
+    "price": 27.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Tropical+Breeze"
+  },
+  {
+    "id": 5,
+    "product": "fragrance",
+    "title": "Sandalwood Elegance",
+    "description": "A woody scent that adds a touch of sophistication.",
+    "price": 26.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Sandalwood+Elegance"
+  },
+  {
+    "id": 6,
+    "product": "fragrance",
+    "title": "Vanilla Dream",
+    "description": "Warm and sweet vanilla fragrance for a comforting ambiance.",
+    "price": 23.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Vanilla+Dream"
+  },
+  {
+    "id": 7,
+    "product": "flavor",
+    "title": "Strawberry Delight",
+    "description": "The taste of ripe strawberries in every bite.",
+    "price": 9.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Strawberry+Delight"
+  },
+  {
+    "id": 8,
+    "product": "flavor",
+    "title": "Minty Fresh",
+    "description": "Cool and refreshing mint flavor for a burst of freshness.",
+    "price": 8.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Minty+Fresh"
+  },
+  {
+    "id": 9,
+    "product": "flavor",
+    "title": "Classic Vanilla",
+    "description": "A timeless vanilla flavor that's perfect for desserts.",
+    "price": 7.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Classic+Vanilla"
+  },
+  {
+    "id": 10,
+    "product": "flavor",
+    "title": "Cherry Blossom",
+    "description": "Delicate cherry blossom flavor for a touch of elegance.",
+    "price": 10.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Cherry+Blossom"
+  },
+  {
+    "id": 11,
+    "product": "flavor",
+    "title": "Tropical Pineapple",
+    "description": "Taste the tropics with this pineapple-infused flavor.",
+    "price": 11.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Tropical+Pineapple"
+  },
+  {
+    "id": 12,
+    "product": "flavor",
+    "title": "Cinnamon Spice",
+    "description": "A warm and spicy cinnamon flavor to enhance your recipes.",
+    "price": 8.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Cinnamon+Spice"
+  },
+  {
+    "id": 13,
+    "product": "fragrance",
+    "title": "Ocean Breeze",
+    "description": "A fresh ocean scent that transports you to the seaside.",
+    "price": 25.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Ocean+Breeze"
+  },
+  {
+    "id": 14,
+    "product": "fragrance",
+    "title": "Jasmine Serenade",
+    "description": "The enchanting aroma of blooming jasmine flowers.",
+    "price": 28.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Jasmine+Serenade"
+  },
+  {
+    "id": 15,
+    "product": "fragrance",
+    "title": "Cedarwood Tranquility",
+    "description": "Calming cedarwood scent for a peaceful atmosphere.",
+    "price": 26.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Cedarwood+Tranquility"
+  },
+  {
+    "id": 16,
+    "product": "fragrance",
+    "title": "Apple Orchard",
+    "description": "The crisp and inviting scent of fresh apples in an orchard.",
+    "price": 21.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Apple+Orchard"
+  },
+  {
+    "id": 17,
+    "product": "fragrance",
+    "title": "Eucalyptus Bliss",
+    "description": "Invigorating eucalyptus fragrance for a breath of fresh air.",
+    "price": 23.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Eucalyptus+Bliss"
+  },
+  {
+    "id": 18,
+    "product": "flavor",
+    "title": "Blueberry Burst",
+    "description": "The burst of juicy blueberries in every bite.",
+    "price": 10.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Blueberry+Burst"
+  },
+  {
+    "id": 19,
+    "product": "flavor",
+    "title": "Honeydew Melon",
+    "description": "Sweet and succulent honeydew melon flavor for a refreshing taste.",
+    "price": 9.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Honeydew+Melon"
+  },
+  {
+    "id": 20,
+    "product": "flavor",
+    "title": "Creamy Chocolate",
+    "description": "Smooth and creamy chocolate flavor to satisfy your cravings.",
+    "price": 7.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Creamy+Chocolate"
+  },
+  {
+    "id": 21,
+    "product": "flavor",
+    "title": "Raspberry Delight",
+    "description": "Delicious raspberry flavor for a sweet and tangy experience.",
+    "price": 11.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Raspberry+Delight"
+  },
+  {
+    "id": 22,
+    "product": "flavor",
+    "title": "Peppermint Blast",
+    "description": "Intense peppermint flavor for a refreshing and invigorating sensation.",
+    "price": 8.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Peppermint+Blast"
+  },
+  {
+    "id": 23,
+    "product": "flavor",
+    "title": "Cherry Blossom",
+    "description": "Delicate cherry blossom flavor for a touch of elegance.",
+    "price": 10.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Cherry+Blossom"
+  },
+  {
+    "id": 24,
+    "product": "fragrance",
+    "title": "Fresh Linen",
+    "description": "The clean and comforting scent of freshly laundered linens.",
+    "price": 24.99,
+    "type": "floral",
+    "image": "https://via.placeholder.com/150?text=Fresh+Linen"
+  },
+  {
+    "id": 25,
+    "product": "fragrance",
+    "title": "Coconut Bliss",
+    "description": "A tropical coconut fragrance that transports you to the beach.",
+    "price": 27.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Coconut+Bliss"
+  },
+  {
+    "id": 26,
+    "product": "fragrance",
+    "title": "Crisp Apple",
+    "description": "The delightful aroma of crisp and juicy apples.",
+    "price": 21.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Crisp+Apple"
+  },
+  {
+    "id": 27,
+    "product": "flavor",
+    "title": "Butterscotch Heaven",
+    "description": "Rich and creamy butterscotch flavor for indulgent treats.",
+    "price": 8.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Butterscotch+Heaven"
+  },
+  {
+    "id": 28,
+    "product": "flavor",
+    "title": "Peach Paradise",
+    "description": "The taste of sweet and succulent peaches in every bite.",
+    "price": 9.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Peach+Paradise"
+  },
+  {
+    "id": 29,
+    "product": "flavor",
+    "title": "Mango Tango",
+    "description": "Experience the tropical dance of mango flavors.",
+    "price": 10.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Mango+Tango"
+  },
+  {
+    "id": 30,
+    "product": "fragrance",
+    "title": "Warm Vanilla Sugar",
+    "description": "A comforting blend of warm vanilla and sweet sugar notes.",
+    "price": 26.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Warm+Vanilla+Sugar"
+  },
+  {
+    "id": 31,
+    "product": "fragrance",
+    "title": "Mountain Pine",
+    "description": "Invigorating pine scent reminiscent of a mountain forest.",
+    "price": 25.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Mountain+Pine"
+  },
+  {
+    "id": 32,
+    "product": "flavor",
+    "title": "Caramel Delight",
+    "description": "Indulge in the sweet and buttery flavor of caramel.",
+    "price": 7.99,
+    "type": "musk",
+    "image": "https://via.placeholder.com/150?text=Caramel+Delight"
+  },
+  {
+    "id": 33,
+    "product": "flavor",
+    "title": "Watermelon Splash",
+    "description": "Cool and refreshing watermelon flavor for hot summer days.",
+    "price": 9.99,
+    "type": "fruity",
+    "image": "https://via.placeholder.com/150?text=Watermelon+Splash"
+  }
+]
