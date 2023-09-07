@@ -9,6 +9,7 @@ type fetchProductDetailProps = {
     id: number
 }
 
+// fetching paginated products
 export const fetchProducts = async ({product, type, page, itemsPerPage}: fetchProductsProps) => {
     try {
         const response = await fetch(`http://localhost:8080/products?product=${product}&type=${type}&page=${page}&itemsPerPage=${itemsPerPage}`, {
@@ -29,6 +30,7 @@ export const fetchProducts = async ({product, type, page, itemsPerPage}: fetchPr
       }
 }
 
+// fetching details about product
 export const fetchProductDetail = async ({id}: fetchProductDetailProps) => {
     try {
         const response = await fetch(`http://localhost:8080/product/detail?id=${id}`, {

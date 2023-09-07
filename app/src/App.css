@@ -25,14 +25,14 @@
   background-color: rgb(100, 0, 0);
 }
 
-.loading-container {
+.loadingContainer {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100px; /* Adjust the height as needed */
 }
 
-.loading-spinner {
+.loadingSpinner {
   border: 4px solid rgba(255, 255, 255, 0.3);
   border-top: 4px solid black; /* Set the color you want for the spinner */
   border-radius: 50%;

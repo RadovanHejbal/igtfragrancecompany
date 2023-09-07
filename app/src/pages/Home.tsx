@@ -5,6 +5,7 @@ import { fetchProducts } from "../functions/httpFunctions";
 import Product from "../components/Product";
 import Loading from "../components/Loading";
 
+// This page is used for displaying all products
 const Home = () => {
   const [error, setError] = useState(false);
   const [products, setProducts] = useState<ProductProps[]>([]);

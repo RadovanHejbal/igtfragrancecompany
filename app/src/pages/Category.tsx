@@ -8,7 +8,7 @@ import Product from "../components/Product";
 import Loading from "../components/Loading";
 
 
-
+// This page is used for catalog of fragrances OR flavors
 const Category = ({product}: {product: string}) => {
   const { type } = useParams();
   const [error, setError] = useState(false);

@@ -1,6 +1,6 @@
 const Loading = () => {
-    return <div className="loading-container">
-        <div className="loading-spinner"></div>
+    return <div className="loadingContainer">
+        <div className="loadingSpinner"></div>
     </div>
 }
 

@@ -7,6 +7,7 @@ type ReviewProps = {
 const Review: React.FC<ReviewProps> = ({name, text, stars}) => {
     const renderStars: React.ReactNode[] = [];
 
+    // render as many star divs as stars review got
     for(let i = 0; i < stars; i++) {
         renderStars.push(<div style={{color: 'goldenrod'}}>*</div>)
     }
